@@ -1,0 +1,59 @@
+{
+  "users": [
+    {
+      "id": "297c",
+      "fullName": "Thomson",
+      "email": "simbolonthomson2000@gmail.com",
+      "password": "10102000"
+    },
+    {
+      "id": "8903",
+      "fullName": "Thomson Simbolon",
+      "email": "simbolonthomson10@gmail.com",
+      "password": "@Thomson10"
+    },
+    {
+      "id": "26ec",
+      "fullName": "Toni",
+      "email": "toni@gmail.com",
+      "password": "10102000"
+    }
+  ],
+  "transactions": [
+    {
+      "id": "ff7e",
+      "item": "Tablet Apple iPad",
+      "price": "64.95",
+      "date": "2024-11-30",
+      "status": "Tersedia"
+    },
+    {
+      "id": "d3aa",
+      "item": "Laptop ASUS ZenBook\t",
+      "price": "1.500",
+      "date": "2024-11-25",
+      "status": "Dikirim"
+    },
+    {
+      "id": "0bde",
+      "item": "Smartphone Samsung",
+      "price": "800",
+      "date": "2024-11-18",
+      "status": "Tersedia"
+    },
+    {
+      "id": "0489",
+      "item": "Headphone Sony",
+      "price": "150",
+      "date": "2024-11-11",
+      "status": "Dipesan"
+    },
+    {
+      "id": "e1db",
+      "item": "Handphone Iphone 14 Pro Max",
+      "price": "12.50",
+      "date": "2024-11-25",
+      "status": "Dibatalkan"
+    }
+  ]
+}
